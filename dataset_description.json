@@ -5,7 +5,9 @@
     "Acknowledgements": "",
     "HowToAcknowledge": "",
     "Funding": "This work was supported by the Singapore Bioimaging Consortium core funds",
-    "ReferencesAndLinks": [],
+    "ReferencesAndLinks": [
+        "https://www.ncbi.nlm.nih.gov/pubmed/25175535"
+    ],
     "DatasetDOI": "",
     "BIDSVersion": "1.0.2"
 }
