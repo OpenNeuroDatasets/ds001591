@@ -6,8 +6,8 @@
         "Ling Yun Yeow"
     ],
     "Acknowledgements": "",
-    "HowToAcknowledge": "",
-    "Funding": "",
+    "HowToAcknowledge": "Please cite Grandjean et al. 2014 (https://www.ncbi.nlm.nih.gov/pubmed/25175535) if you use this dataset. ",
+    "Funding": "The dataset was supported by the Singapore Bioimaging Consortium core funds. ",
     "ReferencesAndLinks": [],
     "DatasetDOI": "",
     "error": "file not found"
