@@ -1,7 +1,9 @@
 {
     "Name": "Mouse_rest_KCLtraining",
     "License": "",
-    "Authors": [],
+    "Authors": [
+        "Joanes Grandjean"
+    ],
     "Acknowledgements": "",
     "HowToAcknowledge": "",
     "Funding": "",
