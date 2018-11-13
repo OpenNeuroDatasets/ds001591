@@ -1,1 +1,13 @@
-{"Name": "Mouse_rest_KCLtraining", "BIDSVersion": "1.0.2"}
+{
+    "Name": "Mouse_rest_KCLtraining",
+    "License": "",
+    "Authors": [],
+    "Acknowledgements": "",
+    "HowToAcknowledge": "",
+    "Funding": "",
+    "ReferencesAndLinks": [
+        "https://www.ncbi.nlm.nih.gov/pubmed/25175535"
+    ],
+    "DatasetDOI": "",
+    "BIDSVersion": "1.0.2"
+}
