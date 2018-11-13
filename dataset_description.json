@@ -1,16 +1,1 @@
-{
-    "Name": "Mouse_rest_KCLtraining",
-    "License": "",
-    "Authors": [
-        "Joanes Grandjean",
-        "Ling Yun Yeow"
-    ],
-    "Acknowledgements": "",
-    "HowToAcknowledge": "Please cite Grandjean et al. 2014 (https://www.ncbi.nlm.nih.gov/pubmed/25175535) if you use this dataset. ",
-    "Funding": "The dataset was supported by the Singapore Bioimaging Consortium core funds. ",
-    "ReferencesAndLinks": [
-        "https://www.ncbi.nlm.nih.gov/pubmed/25175535"
-    ],
-    "DatasetDOI": "",
-    "error": "file not found"
-}
+{"Name": "Mouse_rest_KCLtraining", "BIDSVersion": "1.0.2"}
