@@ -1,17 +1,11 @@
 {
     "Name": "Mouse_rest_KCLtraining",
     "License": "",
-    "Authors": [
-        "Joanes Grandjean",
-        "Ling Yun Yeow",
-        "Camilla Simmons"
-    ],
+    "Authors": [],
     "Acknowledgements": "",
-    "HowToAcknowledge": "Please cite:\n Grandjean et al. 2014 (https://www.ncbi.nlm.nih.gov/pubmed/25175535)",
-    "Funding": "This dataset acquisition was supported by the Singapore Bioimaging Consortium core funds",
-    "ReferencesAndLinks": [
-        "https://www.ncbi.nlm.nih.gov/pubmed/25175535"
-    ],
+    "HowToAcknowledge": "",
+    "Funding": "This work was supported by the Singapore Bioimaging Consortium core funds",
+    "ReferencesAndLinks": [],
     "DatasetDOI": "",
     "BIDSVersion": "1.0.2"
 }
