@@ -1,7 +1,9 @@
 {
     "Name": "Mouse_rest_KCLtraining",
     "License": "",
-    "Authors": [],
+    "Authors": [
+        "Joanes Grandjean"
+    ],
     "Acknowledgements": "",
     "HowToAcknowledge": "Please cite https://www.ncbi.nlm.nih.gov/pubmed/25175535",
     "Funding": "This work was supported by the Singapore Bioimaging Consortium core funds",
