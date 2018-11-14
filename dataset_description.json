@@ -1,1 +1,13 @@
-{"Name": "Mouse_rest_KCLtraining", "BIDSVersion": "1.0.2"}
+{
+    "Name": "Mouse_rest_KCLtraining",
+    "License": "",
+    "Authors": [
+        "Joanes Grandjean"
+    ],
+    "Acknowledgements": "",
+    "HowToAcknowledge": "",
+    "Funding": "",
+    "ReferencesAndLinks": [],
+    "DatasetDOI": "",
+    "BIDSVersion": "1.0.2"
+}
