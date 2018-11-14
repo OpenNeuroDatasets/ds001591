@@ -9,7 +9,7 @@
         "Diana Cash"
     ],
     "Acknowledgements": "",
-    "HowToAcknowledge": "",
+    "HowToAcknowledge": "Please cite Grandjean et al. 2014 (https://www.ncbi.nlm.nih.gov/pubmed/25175535) ",
     "Funding": "This dataset acquisition was supported by the Singapore Bioimaging Consortium core funds",
     "ReferencesAndLinks": [
         "https://www.ncbi.nlm.nih.gov/pubmed/25175535"
